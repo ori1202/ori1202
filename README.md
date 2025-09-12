@@ -24,15 +24,22 @@
     <td align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/remix/remix-original.svg" />
           </td>
-    <td align="center"><img src="https://expressjs.com/images/favicon.png" alt="Express" height="40"/></td>
+    <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+          </td>
     <td align="center"><img src="https://nodejs.org/static/images/node-mascot.svg" alt="Node.js Turtle" height="40"/></td>
-    <td align="center"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text.png" alt="OpenCV Mascot" height="40"/></td>
+    <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" />
+          </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://react.dev/images/brand/logo_dark.svg" alt="React Atom" height="40"/></td>
-    <td align="center"><img src="https://remix.run/_brand/remix-letter-dark.png" alt="React Remix" height="40"/></td>
+    <td align="center">
+      <img src=""/>
+    </td>
+    <td align="center">
+      <img src="https://remix.run/_brand/remix-letter-dark.png" alt="React Remix" height="40"/></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow Cube" height="40"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" alt="Kubernetes" height="40"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/containers/podman/main/logo/podman-logo.png" alt="Podman" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" /></td>
   </tr>
 </table>

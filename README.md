@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/Redis-05122A?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-05122A?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deno-05122A?style=for-the-badge&logo=deno&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-05122A?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-05122A?style=for-the-badge&logo=reactrouter&logoColor=white" />
   <img src="https://img.shields.io/badge/mongodb-05122A?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>

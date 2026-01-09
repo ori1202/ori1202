@@ -2,6 +2,11 @@
 <h3 align="center">A full stack developer from Israel</h3>
 
 <h3 align="left">Languages and Tools (Mascot Edition):</h3>
+  
+  
+  <img src="https://nodejs.org/static/images/node-mascot.svg" style="width: 250px;" />
+
+
 
 <!-- Languages -->
 <p align="center">

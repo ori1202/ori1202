@@ -6,6 +6,7 @@
 <div>  
 <img src="https://nodejs.org/static/images/node-mascot.svg" style="width: 250px;" />
 <img src="https://github.blog/wp-content/uploads/2025/12/logo.png?w=1000" style="width: 250px;" />
+<img src="https://github.com/ziglang/logo/raw/master/zero.svg" style="width: 250px;"/>
 </div>
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Traefik_Logo.svg/250px-Traefik_Logo.svg.png" style="width: 250px;" />

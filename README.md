@@ -4,14 +4,15 @@
 <h3 align="left">Languages and Tools (Mascot Edition):</h3>
   
 <div>  
-<img src="https://nodejs.org/static/images/node-mascot.svg" style="width: 250px;" />
-<img src="https://github.blog/wp-content/uploads/2025/12/logo.png?w=1000" style="width: 250px;" />
-<img src="https://github.com/ziglang/logo/raw/master/zero.svg" style="width: 250px;"/>
+<img src="https://nodejs.org/static/images/node-mascot.svg" style="width: 200px" />
+<img src="https://github.blog/wp-content/uploads/2025/12/logo.png?w=1000" style="width: 200px;" />
+<img src="https://github.com/ziglang/logo/raw/master/zero.svg" style="width: 200px;"/>
+<img src="https://us1.discourse-cdn.com/bubble/original/3X/1/a/1a7fbc119eaf2af15de6324837b013b6205c9d45.webp" style="width: 200px;"/>
 </div>
 <div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Traefik_Logo.svg/250px-Traefik_Logo.svg.png" style="width: 250px;" />
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/podman.webp" style="width: 250px;" />
-<img src="https://scientificcomputing.rs/img/science-ferris-transparent.png" style="width: 250px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Traefik_Logo.svg/250px-Traefik_Logo.svg.png" style="width: 200px;" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/podman.webp" style="width: 200px;" />
+<img src="https://scientificcomputing.rs/img/science-ferris-transparent.png" style="width: 200px;"/>
 </div>
 
 

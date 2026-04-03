@@ -13,6 +13,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Traefik_Logo.svg/250px-Traefik_Logo.svg.png" style="width: 200px;" />
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/podman.webp" style="width: 200px;" />
 <img src="https://scientificcomputing.rs/img/science-ferris-transparent.png" style="width: 200px;"/>
+<img src="https://gitlab.com/uploads/-/system/project/avatar/11936848/findcrypt_logo.png" style="width: 200px;"/>
+
+  
 </div>
 
 

@@ -7,19 +7,20 @@
 </h3>
 
 <div align="left">  
-  <img src="https://nodejs.org/static/images/node-mascot.svg" style="width: 200px" />
-  <img src="https://github.blog/wp-content/uploads/2025/12/logo.png?w=1000" style="width: 200px;" />
-  <img src="https://github.com/ziglang/logo/raw/master/zero.svg" style="width: 200px;"/>
-  <img src="https://us1.discourse-cdn.com/bubble/original/3X/1/a/1a7fbc119eaf2af15de6324837b013b6205c9d45.webp" style="width: 200px;"/>
+  <img src="https://nodejs.org/static/images/node-mascot.svg" style="width: 150px" />
+  <img src="https://github.blog/wp-content/uploads/2025/12/logo.png?w=1000" style="width: 150px;" />
+  <img src="https://github.com/ziglang/logo/raw/master/zero.svg" style="width: 150px;"/>
+  <img src="https://us1.discourse-cdn.com/bubble/original/3X/1/a/1a7fbc119eaf2af15de6324837b013b6205c9d45.webp" style="width: 150px;"/>
 </div>
 
 <br>
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Traefik_Logo.svg/250px-Traefik_Logo.svg.png" style="width: 200px;" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/podman.webp" style="width: 200px;" />
-  <img src="https://scientificcomputing.rs/img/science-ferris-transparent.png" style="width: 200px;"/>
-  <img src="https://gitlab.com/uploads/-/system/project/avatar/11936848/findcrypt_logo.png" style="width: 200px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Traefik_Logo.svg/250px-Traefik_Logo.svg.png" style="width: 150px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/podman.webp" style="width: 150px;" />
+  <img src="https://scientificcomputing.rs/img/science-ferris-transparent.png" style="width: 150px;"/>
+  <img src="https://gitlab.com/uploads/-/system/project/avatar/11936848/findcrypt_logo.png" style="width: 150px;"/>
+  <img src="https://atuin.sh/assets/turtle-interaction-variant-07.svg" style="width: 150px;"/>
 </div>
 
 <br>
